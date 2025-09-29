@@ -1,6 +1,6 @@
 # Greenhouse Gas Concentration Forecasting using SARIMA
 
-This project forecasts the concentrations of four major greenhouse gases (GHGs)—Carbon Dioxide ($CO₂$), Methane ($CH₄$), Nitrous Oxide ($N₂O$), and Sulfur Hexafluoride ($SF₆$)—for the next six months using a Seasonal Autoregressive Integrated Moving Average (SARIMA) model. It also generates an interactive HTML visualization of the historical data and the forecasts.
+This project forecasts the concentrations of four primary greenhouse gases (GHGs), which are Carbon Dioxide (CO₂), Methane (CH₄), Nitrous Oxide (N₂O), and Sulfur Hexafluoride (SF₆), for the next six months using a Seasonal Autoregressive Integrated Moving Average (SARIMA) model. It also generates an interactive HTML visualization of the historical data and the forecasts.
 
 
 ## Table of Contents
